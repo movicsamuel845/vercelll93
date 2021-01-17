@@ -1,0 +1,4 @@
+baseURL = "https://famousquoteshight6.vercel.app"
+languageCode = "en-us"
+title = "Famuos Quotes About Everything"
+theme = "tale-hugo-master"
